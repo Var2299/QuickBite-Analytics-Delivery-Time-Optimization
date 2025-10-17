@@ -133,13 +133,6 @@ DATA_PATH = '/content/Food_Delivery_Times.csv'
 python delivery_analysis.py
 ```
 
-### Expected Output
-
-* 6 professional visualizations for delivery optimization
-* Comprehensive business insights with actionable recommendations
-* Cleaned dataset ready for further analysis (`optimized_delivery_data.csv`)
-* Performance metrics and suggested optimization strategies
-
 ---
 
 ## 📂 Dataset
