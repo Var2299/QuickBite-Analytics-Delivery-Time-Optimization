@@ -57,11 +57,11 @@ Below are some of the generated graphs from the analysis:
 | Visualization | Preview |
 |----------------|----------|
 | Delivery Time Distribution | <img width="998" height="902" alt="image" src="https://github.com/user-attachments/assets/906984b3-d1f4-432d-b7b4-36ea851cfc7a" />|
-| Distance vs Delivery Time | ![Distance vs Delivery Time](assets/distance_vs_time.png) |
-| Delivery Performance Segments | ![Delivery Performance](assets/delivery_performance_segments.png) |
-| Time-of-Day Patterns | ![Time of Day](assets/time_of_day_patterns.png) |
-| Order Value Impact | ![Order Value Impact](assets/order_value_impact.png) |
-| Delivery Efficiency | ![Delivery Efficiency](assets/delivery_efficiency.png) |
+| Distance vs Delivery Time | <img width="850" height="731" alt="image" src="https://github.com/user-attachments/assets/e47353ee-3a19-4a5e-834a-b7d02099ae06" />|
+| Delivery Performance Segments | <img width="831" height="857" alt="image" src="https://github.com/user-attachments/assets/d1e6e5e5-ad61-4e3b-bfd1-1f1c07d49eb7" />|
+| Time-of-Day Patterns | <img width="835" height="820" alt="image" src="https://github.com/user-attachments/assets/3914d8a4-3deb-4796-833a-a585c385fdfa" />|
+| Order Value Impact | <img width="837" height="772" alt="image" src="https://github.com/user-attachments/assets/15b68758-af86-437e-a421-c2d1f929aa03" />|
+| Delivery Efficiency | <img width="833" height="780" alt="image" src="https://github.com/user-attachments/assets/11403483-0622-4bca-8595-8afa4ea3461b" />|
 
 ---
 
