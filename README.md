@@ -122,15 +122,6 @@ DATA_PATH = '/path/to/your/amazon_data.csv'
 python amazon_analysis.py
 ```
 
-### Expected Output
-
-* 4 professional visualizations in a structured dashboard
-* Cleaned dataset ready for further analysis (`cleaned_amazon_data.csv`)
-* Actionable business insights and recommendations
-* Market intelligence metrics for strategic planning
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -181,16 +172,6 @@ amazon-market-intelligence/
 * Market concentration — Herfindahl‑style measures
 * Correlation analysis — price vs competition
 * Segmentation analysis — category‑wise benchmarking
-
----
-
-## 🎯 Skills Demonstrated
-
-* Data wrangling and cleaning of real‑world e‑commerce data
-* Exploratory data analysis to uncover meaningful patterns
-* Business intelligence: translating data into actionable strategy
-* Professional data visualization for stakeholder presentation
-* Statistical methods applied to market problems
 
 ---
 
