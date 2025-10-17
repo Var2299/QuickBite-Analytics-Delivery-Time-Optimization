@@ -56,7 +56,7 @@ Below are some of the generated graphs from the analysis:
 
 | Visualization | Preview |
 |----------------|----------|
-| Delivery Time Distribution | ![Delivery Time Distribution](<img width="998" height="902" alt="image" src="https://github.com/user-attachments/assets/8c963376-01fa-4427-ab84-61416537a742" />) |
+| Delivery Time Distribution | [Delivery Time Distribution](<img width="998" height="902" alt="image" src="https://github.com/user-attachments/assets/8c963376-01fa-4427-ab84-61416537a742" />) |
 | Distance vs Delivery Time | ![Distance vs Delivery Time](assets/distance_vs_time.png) |
 | Delivery Performance Segments | ![Delivery Performance](assets/delivery_performance_segments.png) |
 | Time-of-Day Patterns | ![Time of Day](assets/time_of_day_patterns.png) |
