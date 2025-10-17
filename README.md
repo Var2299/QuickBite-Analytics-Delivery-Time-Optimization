@@ -110,6 +110,21 @@ Each visualization is created to help identify operational bottlenecks and oppor
 
 ---
 
+## 🖼️ Visualization Previews
+
+Below are some of the generated graphs from the analysis:
+
+| Visualization | Preview |
+|----------------|----------|
+| Delivery Time Distribution | <img width="916" height="837" alt="image" src="https://github.com/user-attachments/assets/8cc9fcc2-4ec1-4d5c-a629-5540b5508d63" />|
+| Distance vs Delivery Time | <img width="926" height="802" alt="image" src="https://github.com/user-attachments/assets/3fc994ae-b5fc-415e-bdca-0cc77597eae4" />|
+| Delivery Performance Segments |<img width="892" height="928" alt="image" src="https://github.com/user-attachments/assets/6f369f7c-a8b0-481a-9f55-2203e562b652" />|
+| Time-of-Day Patterns | <img width="906" height="882" alt="image" src="https://github.com/user-attachments/assets/48841b05-a0fa-404b-8e71-0678bf40a418" />|
+| Order Value Impact | <img width="921" height="848" alt="image" src="https://github.com/user-attachments/assets/180fa4ae-147f-43da-b271-62f52b7bdc58" />|
+| Delivery Efficiency |<img width="1086" height="982" alt="image" src="https://github.com/user-attachments/assets/74e205b8-2ce4-48d3-9c13-8023093e8c17" />|
+
+---
+
 ## 💼 Business Impact
 
 ### Quantified Benefits (example outcomes)
